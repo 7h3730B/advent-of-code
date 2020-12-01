@@ -6,3 +6,5 @@ My solutions to advent-of-code
 - [ ] 2018
 - [ ] 2017
 - [ ] 2016
+
+Just my quick and dirty solutions for AoC
