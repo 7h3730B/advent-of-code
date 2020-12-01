@@ -11,7 +11,6 @@ function getFirstValue(noun, verb, inputVec) {
         // Break if opcode = 99
         const opcode = inputs[pc];
         if (opcode === 99) {
-            // console.log("exiting!");
             break;
         }
 
