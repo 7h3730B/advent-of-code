@@ -55,4 +55,4 @@ if __name__ == '__main__':
             haveAllFields += 1
             if validatePassport(passport):
                 validPassports += 1
-    print(f'{len(passports)} Passports are checked {haveAllFields} Passports have all required fields and {validPassports} Passports are valid')
+    print(f'{len(passports)} Passports are checked {haveAllFields} Passports have all required fields and {validPassports} Passports are valid') # 282 250 158
