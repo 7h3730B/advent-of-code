@@ -31,6 +31,7 @@ def validatePassport(passport, neededFields):
 
 if __name__ == '__main__':
     passports = readInputs()
+    print(passports)
     neededFields = ['byr', 'iyr', 'eyr', 'hgt', 'hcl', 'ecl', 'pid']
     validPassports = 0
     for passport in passports:
