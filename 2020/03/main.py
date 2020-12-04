@@ -12,7 +12,6 @@ for i in inputValues:
     y += 1
     if x >= len(i):
         x = (x - len(i))
-        print(x)
     if y > 322:
         print(trees) # 205
         exit(0)
